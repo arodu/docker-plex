@@ -14,4 +14,5 @@ services:
       - ./TV:/tv
       - ./Movies:/movies
       - ./Series:/series
+      - ./Photos:/photos
     #restart: unless-stopped
