@@ -28,3 +28,9 @@
 [d] = directory
 
 [f] = file
+
+## Update
+
+```bash
+docker pull ghcr.io/linuxserver/plex:latest
+```
